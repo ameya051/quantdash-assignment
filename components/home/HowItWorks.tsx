@@ -6,26 +6,22 @@ const HowItWorks = () => {
         {
             title: "PDFs",
             description:
-                "Upload your PDF and let our AI analyze and generate insights, summaries, or quizzes.",
-            link: "https://stripe.com",
+                "Upload your PDF and let our AI analyze and generate insights, summaries, or quizzes."
         },
         {
             title: "PowerPoint",
             description:
-                "Transform your PowerPoint presentations into interactive learning materials or reports.",
-            link: "https://netflix.com",
+                "Transform your PowerPoint presentations into interactive learning materials or reports."
         },
         {
             title: "YouTube",
             description:
-                "Extract key information from YouTube videos to create comprehensive summaries or quizzes.",
-            link: "https://google.com",
+                "Extract key information from YouTube videos to create comprehensive summaries or quizzes."
         },
         {
             title: "Web Page",
             description:
                 "Turn web pages into structured reports or presentations with our advanced AI technology.",
-            link: "https://meta.com",
         },
     ];
     return (
